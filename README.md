@@ -64,8 +64,6 @@ The project consists of three parts:
 
 - **new_retrieve_data_starter_code.ipynb**: Updated Jupyter Notebook to fetch, process, and clean data.
 - **cme_gst.csv**: Output CSV file containing the merged and cleaned dataset.
-- **example.env**: Template environment file to add your NASA API key.
-- **requirements.txt**: List of dependencies required to run the project.
 
 ## Key Functions and Scripts
 
